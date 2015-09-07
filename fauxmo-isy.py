@@ -28,6 +28,8 @@ THE SOFTWARE.
 
 # For a complete discussion, see http://www.makermusings.com
 
+# modifed for ISY by Pete Shipley https://github.com/evilpete/fauxmo
+
 import email.utils
 import requests
 import select
